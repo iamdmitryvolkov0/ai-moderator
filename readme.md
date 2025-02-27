@@ -28,4 +28,4 @@
 - Docker Compose
 - GNU Make
 
-После успешного запуска сервис будет доступен по адресу [`http://localhost:9000`](http://localhost:9000).
+После успешного запуска сервис будет доступен по адресу [`http://localhost:8080`](http://localhost:8080).
